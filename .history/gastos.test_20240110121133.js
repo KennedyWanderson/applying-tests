@@ -1,0 +1,3 @@
+
+const testes = require("./gastos")
+

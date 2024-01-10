@@ -1,0 +1,6 @@
+
+
+
+function GastosPorKm(distancia, tipo){
+
+}
